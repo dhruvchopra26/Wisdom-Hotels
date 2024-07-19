@@ -1,0 +1,38 @@
+[
+  {
+    "name": "RIVERLAND – LEH",
+    "price": "10000",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./r1.png"
+  },
+  {
+    "name": "DESERT HIMALAYA RESORT – NUBRA",
+    "price": "15000",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "WISDOM RETREAT RESORT – LEH",
+    "price": "13000",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./r3.png"
+  },
+  {
+    "name": "THONGSAL – LEH",
+    "price": "20000",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./r4.png"
+  },
+  {
+    "name": "DESERTBLUE – PANGONG",
+    "price": "8000",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r5.png"
+  },
+  {
+    "name": "ADVENTURE PARK",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./r6.png"
+  }
+]
